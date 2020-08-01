@@ -34,3 +34,7 @@ print_r($result);
 
 Check out [CryptoAPIs documentation](https://docs.cryptoapis.io) for more information.
 
+### Changelog
+
+1.x: Version 1.0
+* First release
